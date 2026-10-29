@@ -1,0 +1,10 @@
+[org.cinnamon.desktop.interface]
+cursor-theme='Adwaita'
+gtk-theme='Mint-Y-Dark-Blue'
+icon-theme='Mint-X-Blue'
+
+[org.cinnamon.theme]
+name='Mint-Y-Dark-Blue'
+
+[org.cinnamon.desktop.background]
+picture-uri='file:///usr/share/wallpapers/default.png'
