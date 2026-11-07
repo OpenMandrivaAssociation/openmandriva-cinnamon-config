@@ -1,6 +1,9 @@
 {
     "show-events": {
         "override-prop": true,
-        "default": false
+        "type" : "switch",
+        "default" : false,
+        "description": "Show calendar events",
+        "tooltip": "Check this to display events in the calendar."
     }
 }

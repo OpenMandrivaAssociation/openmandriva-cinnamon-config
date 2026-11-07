@@ -1,7 +1,7 @@
 Summary:	Package containing distro specific configuration and gschema overrides for Cinnamon
 Name:		openmandriva-cinnamon-config
 Version:	6.8.0
-Release:	1
+Release:	2
 License:	GPLv2+ and LGPLv2+
 Group:		Graphical desktop/Cinnamon
 Url:		https://www.openmandriva.org
