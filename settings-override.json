@@ -1,0 +1,6 @@
+{
+    "show-events": {
+        "override-prop": true,
+        "default": false
+    }
+}
